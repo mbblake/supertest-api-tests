@@ -1,0 +1,29 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "Title of the 1st post",
+        "author": "1st Author"
+      },
+      {
+        "id": 2,
+        "title": "Title of the 2nd post",
+        "author": "2nd Author"
+      },
+      {
+        "id": 3,
+        "title": "Title of the 3rd post",
+        "author": "3rd Author"
+      },
+      {
+        "id": 4,
+        "title": "Title of the 4th post",
+        "author": "4th Author"
+      },
+      {
+        "id": 5,
+        "title": "Title of the 5th post",
+        "author": "5th Author"
+      }
+    ]
+  }
