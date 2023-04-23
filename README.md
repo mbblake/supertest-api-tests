@@ -7,7 +7,7 @@ Demonstration of using SuperTest to run API tests against a simple REST API. Thi
 ### Installing
 
 -   Install git
--   Clone the repo: `git clone https://github.com/MattBlakeQA/supertest-api-tests.git`
+-   Clone the repo: `git clone https://github.com/mbblake/supertest-api-tests.git`
 -   Install Node 18+
 -   Install NPM
 -   Install dependencies: `npm install`
